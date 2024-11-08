@@ -59,8 +59,6 @@ nav ul {
   background: url(./Pictures/mobile-main-img.png);
   font-family: 'Source Sans Pro';
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: bottom;
   color: #FFFFFF;
   padding: 5rem 1rem 1rem;
 }
@@ -190,8 +188,7 @@ footer p {
   }
   
   .article-container {
-    background-position: center;
-    padding: 15rem 2rem 3rem;
+    padding: 25rem 2rem 3rem;
     grid-column: span 3;
   }
 
